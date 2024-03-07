@@ -4,3 +4,7 @@
 ###### what a world 
 
 Yep so basically I've just put some headers in, isn't that exciting stuff
+
+### Now we want to add a picture - 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
